@@ -1,7 +1,7 @@
 ---
 title: "Life_and_work"
 date: 2023-03-13T22:47:16+09:00
-draft: true
+draft: false
 ---
 
 명상록에서 반복적으로 말하는 것은 자신이 컨트롤할 수 없는 것에 신경 끄고 나에게 주어진
