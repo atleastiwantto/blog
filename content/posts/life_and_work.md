@@ -1,5 +1,5 @@
 ---
-title: "Life_and_work"
+title: "Life and work"
 date: 2023-03-13T22:47:16+09:00
 draft: false
 ---
